@@ -17,8 +17,6 @@ I'm a **MERN Stack Developer** passionate about building innovative and efficien
 ---
 
 ## 💻 Tech Stack  
-
-<div align="center">
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
@@ -40,8 +38,6 @@ I'm a **MERN Stack Developer** passionate about building innovative and efficien
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-</div>
 
 ---
 
