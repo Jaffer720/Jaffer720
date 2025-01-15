@@ -69,7 +69,7 @@ A user-friendly platform to automate restaurant orders, ensuring efficiency and 
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaffer720&theme=default)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaffer720&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaffer720&show_icons=true&theme=default)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaffer720&theme=default)
 
 ---
 
